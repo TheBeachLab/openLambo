@@ -1,0 +1,6 @@
+echo Start updating documentation
+git pull
+git add .
+git commit -m "yalla we go"
+git push
+echo I am done
